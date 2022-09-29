@@ -1,0 +1,40 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284 35" width="284" height="35">
+	<title>logo-svg</title>
+	<style>
+		.s0 { opacity: .8;fill: #f1404b } 
+		.s1 { opacity: .8;fill: #3ac1c5 } 
+		.s2 { opacity: .8;fill: #db5000 } 
+		.s3 { opacity: .8;fill: #f9ae0c } 
+		.s4 { opacity: .8;fill: #f364c4 } 
+		.s5 { opacity: .8;fill: #3a65c5 } 
+		.s6 { opacity: .8;fill: #cbe86b } 
+		.s7 { fill: none;stroke: #ffffff;stroke-width: 4 } 
+		.s8 { fill: #ffffff } 
+		.s9 { fill: #3ac1c5 } 
+	</style>
+	<g id="Responsive">
+		<g id="Galaxy-S10+-Copy-12">
+			<g id="Group">
+				<path id="Rectangle" class="s0" d="m0 0h27v35h-27z"/>
+				<path id="Rectangle-Copy-4" class="s1" d="m30 0h27v35h-27z"/>
+				<path id="Rectangle-Copy-5" class="s2" d="m60 0h27v35h-27z"/>
+				<path id="Rectangle-Copy-6" class="s3" d="m89 0h27v35h-27z"/>
+				<path id="Rectangle-Copy-7" class="s4" d="m119 0h27v35h-27z"/>
+				<path id="Rectangle-Copy-8" class="s3" d="m148 0h27v35h-27z"/>
+				<path id="Rectangle-Copy-10" class="s5" d="m179 0h27v35h-27z"/>
+				<path id="Rectangle-Copy-11" class="s6" d="m208 0h27v35h-27z"/>
+				<path id="Polygon-Copy-498" class="s7" d="m272 6.3l9.3 5.4v10.6l-9.3 5.4-9.3-5.4v-10.6z"/>
+				<path id="Fill-1" class="s8" d="m18.2 14.8v-8.8l4.8 1.4v19.2l-4.8 1.4v-8.8h-9.4v7.4l-4.8 1.4v-22l4.8 1.4v7.4z"/>
+				<path id="Fill-2" class="s8" d="m36 6h13.5l1.5 4.4h-10.6v4.4h5.6l1.6 4.4h-7.2v4.4h10.6l-1.5 4.4h-13.5z"/>
+				<path id="Fill-2 copy" class="s8" d="m95 6h13.5l1.5 4.4h-10.6v4.4h5.6l1.6 4.4h-7.2v4.4h10.6l-1.5 4.4h-13.5z"/>
+				<path id="Fill-2 copy 2" class="s8" d="m154 6h13.5l1.5 4.4h-10.6v4.4h5.6l1.6 4.4h-7.2v4.4h10.6l-1.5 4.4h-13.5z"/>
+				<path id="Fill-2 copy 3" class="s8" d="m214 6h13.5l1.5 4.4h-10.6v4.4h5.6l1.6 4.4h-7.2v4.4h10.6l-1.5 4.4h-13.5z"/>
+				<path id="Fill-3" class="s8" d="m73 20.9l-4.5 7.1h-5.5l7.1-11-7.1-11h5.5l4.5 7.1 4.4-7.1h5.6l-7.1 11 7.1 11h-5.6z"/>
+				<path id="Fill-3 copy" class="s8" d="m132 20.9l-4.5 7.1h-5.5l7.1-11-7.1-11h5.5l4.5 7.1 4.4-7.1h5.6l-7.1 11 7.1 11h-5.6z"/>
+				<path id="Fill-3 copy 2" class="s8" d="m192 20.9l-4.5 7.1h-5.5l7.1-11-7.1-11h5.5l4.5 7.1 4.4-7.1h5.6l-7.1 11 7.1 11h-5.6z"/>
+				<path id="Fill-14" fill-rule="evenodd" class="s9" d="m242 28.5q0 0.5-0.2 1-0.2 0.4-0.5 0.8-0.4 0.3-0.8 0.5-0.5 0.2-1 0.2-0.5 0-1-0.2-0.4-0.2-0.8-0.5-0.3-0.4-0.5-0.8-0.2-0.5-0.2-1 0-0.5 0.2-1 0.2-0.4 0.5-0.8 0.4-0.3 0.8-0.5 0.5-0.2 1-0.2 0.5 0 1 0.2 0.4 0.2 0.8 0.5 0.3 0.4 0.5 0.8 0.2 0.5 0.2 1z"/>
+				<path id="Fill-16" class="s8" d="m250 5l4 2v23l-4-2.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>
